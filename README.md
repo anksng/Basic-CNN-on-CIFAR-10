@@ -9,7 +9,7 @@ Building a CNN in TensorFlow to classify images in CIFAR-10 dataset and comparin
 
 # Layers configurations used 
 ### Config 1:
-![alt text](results_png/config1.png)
+![alt text](Results_png/config1.png)
 
 ```python
 def CNN(x_input):
@@ -34,7 +34,7 @@ def CNN(x_input):
 
 
 ### Config 2:
-![alt text](results_png/config2.png)
+![alt text](Results_png/config2.png)
 
 ```python
 def CNN(x_input):
@@ -75,17 +75,17 @@ To build a CNN with tensorflow we must understand the shapes of array at each la
 ## Config1 :
 The training pipepline with gradient descent optimizer is used with a learning rate of 0.01. The epoch loss and accuracy on test and train data is recorded after each epoch. 
 
-![alt text](results_png/results1.png)
+![alt text](Results_png/results1.png)
 
-![alt text](results_png/result1convergence.png)
+![alt text](Results_png/result1convergence.png)
 
 ## Config2 :
 The training pipepline with gradient descent optimizer is used with a learning rate of 0.01. The epoch loss and accuracy on test and train data is recorded after each epoch. 
 
 
-![alt text](results_png/results2.png)
+![alt text](Results_png/results2.png)
 
-![alt text](results_png/result2convergence.png)
+![alt text](Results_png/result2convergence.png)
 
 ### To make your own CNN from scratch in tensorflow to have good control over the inputs please use the .py files. Add more layers, experiment with different loss functions and activations.
 Download the CIFAR-10 dataset at https://www.cs.utoronto.ca/~kriz/cifar-10-python.tar.gz
