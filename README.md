@@ -8,4 +8,4 @@ Building a CNN in TensorFlow to classify images in CIFAR-10 dataset and comparin
 * Train CNN's with different configurations and plot train/test accuracies.
 
 # Layer configurations used 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/config1.png)
+![alt text](config1.png)
