@@ -81,6 +81,8 @@ The training pipepline with gradient descent optimizer is used with a learning r
 
 ## Config2 :
 The training pipepline with gradient descent optimizer is used with a learning rate of 0.01. The epoch loss and accuracy on test and train data is recorded after each epoch. 
+
+
 ![alt text](results2.png)
 
 ![alt text](result2convergence.png)
