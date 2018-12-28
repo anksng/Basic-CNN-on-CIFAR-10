@@ -87,3 +87,4 @@ The training pipepline with gradient descent optimizer is used with a learning r
 
 ![alt text](result2convergence.png)
 
+### To make your own CNN from scratch in tensorflow to have good control over the inputs please use the .py files. Add more layers, experiment with different loss functions and activations.
